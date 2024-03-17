@@ -1,6 +1,6 @@
-# Point of Sale (POS) System
+# Point of Sale (POS) Terminal
 
-The Point of Sale (POS) System is a Java-based application designed to facilitate sales transactions and manage inventory for a retail store. 
+The Point of Sale (POS) Terminal is a Java-based application designed to facilitate sales transactions and manage inventory for a retail store. 
 It provides a user-friendly interface for cashiers to process sales, handle payments, and generate receipts.
 
 ## Features
